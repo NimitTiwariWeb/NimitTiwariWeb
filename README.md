@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NimitTiwari
+- 👋 Hi, I’m Nimit Tiwari
 - 👀 I’m interested in web 3
 - 🌱 I’m currently learning Front end Web Development
 - 💞️ I’m looking to collaborate on 
