@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nimit Tiwari
 - 👀 I’m interested in web 3
 - 🌱 I’m currently learning Front end Web Development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nimiittiwari2604@gmail.com
 
 <!---
